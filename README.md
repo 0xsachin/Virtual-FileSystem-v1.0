@@ -5,15 +5,16 @@
 This project used to create file sub system which will present on RAM. This project is used to demonstrate existing concepts of UNIX file sub system.
 
 if you are using this project steps for running the project is as follows
+
 step 1- type this command on your terminal 
           ./myvfs
           
-          Or
+               Or
           
-          run the given make file by typing command as "make" on your terminal 
+      run the given make file by typing command as "make" on your terminal 
           
 step 2- Enter password as     "sachin"
 
 for more details visit the follownig link
 
-http://sachincodeview.blogspot.com/2016/12/virtual-filesystem.html
+http://sachincodeview.blogspot.com/2016/12/virtual-filesystem.html?m=1
