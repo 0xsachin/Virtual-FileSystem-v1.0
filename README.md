@@ -8,6 +8,10 @@ if you are using this project steps for running the project is as follows
 step 1- type this command on your terminal 
           ./myvfs
           
+          Or
+          
+          run the given make file by typing command as "make" on your terminal 
+          
 step 2- Enter password as     "sachin"
 
 for more details visit the follownig link
